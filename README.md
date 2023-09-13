@@ -1,6 +1,9 @@
 # PayFT a Spring Modulith
 A Spring Modulith example.
 
+The `dev.canm.payft.invoice.event.package-info.java` and `dev.canm.payft.payment.event.package-info.java` files export the `event` package in these modules. 
+
+
 ## Components
 Components, payment and invoice.
 
