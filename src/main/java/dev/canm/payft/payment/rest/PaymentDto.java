@@ -1,4 +1,4 @@
-package dev.canm.payft.payment.internal;
+package dev.canm.payft.payment.rest;
 
 import java.util.UUID;
 

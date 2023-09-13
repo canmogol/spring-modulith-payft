@@ -1,5 +1,7 @@
-package dev.canm.payft.payment.internal;
+package dev.canm.payft.payment.rest;
 
+import dev.canm.payft.payment.service.Payment;
+import dev.canm.payft.payment.service.PaymentService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

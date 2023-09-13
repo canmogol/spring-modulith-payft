@@ -1,4 +1,4 @@
-package dev.canm.payft.invoice;
+package dev.canm.payft.invoice.event;
 
 import org.jmolecules.event.types.DomainEvent;
 

@@ -1,6 +1,6 @@
-package dev.canm.payft.invoice.internal;
+package dev.canm.payft.invoice.service;
 
-import dev.canm.payft.invoice.InvoiceIssued;
+import dev.canm.payft.invoice.event.InvoiceIssued;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;

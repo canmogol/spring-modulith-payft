@@ -1,4 +1,4 @@
-package dev.canm.payft.payment.internal;
+package dev.canm.payft.payment.service;
 
 import lombok.*;
 import org.jmolecules.ddd.types.AggregateRoot;
