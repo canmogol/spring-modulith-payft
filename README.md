@@ -1,6 +1,9 @@
 # PayFT a Spring Modulith
 A Spring Modulith example.
 
+Please see the `annotated-api` branch for explicitly exporting packages in a module.
+
+
 ## Components
 Components, payment and invoice.
 
